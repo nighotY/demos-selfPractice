@@ -9,5 +9,7 @@ baseurl : "https://swapi.dev/api/people/?page="
 5. Create a function that accepts two arguements: eye color and hair color. Return a dictionary with the min, max, and avg height based on the parameters.
 
 Challenge 1: Get all of the response data into a list using a "While Loop" instead of a "For Loop"
+
 Challenge 2: For problem number 4, convert the centimeters to feet
+
 Challenge3: Create a function that that returns a list of all the names that start with a certain letter.
