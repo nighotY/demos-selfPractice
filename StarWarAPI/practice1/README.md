@@ -1,5 +1,5 @@
 # swapi (The Star War API)
-## This jupiter notebook file is about writing functions to get information about start wars characters.
+## This jupiter notebook file is about writing functions to get information about STAR WARS characters.
 
 baseurl : "https://swapi.dev/api/people/?page="
 1. Create a function that returns a list of all the names.
